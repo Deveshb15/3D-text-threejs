@@ -1,4 +1,4 @@
-# Three.js Journey
+# Three.js starter template
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
